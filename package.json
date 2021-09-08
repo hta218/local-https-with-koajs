@@ -1,5 +1,28 @@
 {
   "dependencies": {
     "koa": "^2.13.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "https-in-local-example",
+  "description": "Example server to use HTTPS in local development with [Koa.js](https://koajs.com/)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hta218/local-https-with-koajs.git"
+  },
+  "keywords": [
+    "https",
+    "localhost",
+    "koajs"
+  ],
+  "author": "Leo Huynh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hta218/local-https-with-koajs/issues"
+  },
+  "homepage": "https://github.com/hta218/local-https-with-koajs#readme"
 }
