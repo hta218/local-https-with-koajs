@@ -3,7 +3,7 @@
     "koa": "^2.13.1"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "name": "https-in-local-example",
   "description": "Example server to use HTTPS in local development with [Koa.js](https://koajs.com/)",
